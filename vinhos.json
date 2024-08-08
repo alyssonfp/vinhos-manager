@@ -1,0 +1,282 @@
+[
+  {
+    "nome": "Chardonnay",
+    "descricao": "Vinho branco seco e refrescante",
+    "quantidade": 50,
+    "valor": 120.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Cabernet Sauvignon",
+    "descricao": "Vinho tinto encorpado e elegante",
+    "quantidade": 40,
+    "valor": 150.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Prosecco",
+    "descricao": "Vinho espumante italiano",
+    "quantidade": 30,
+    "valor": 200.0,
+    "categoriaId": "espumantes"
+  },
+  {
+    "nome": "Merlot",
+    "descricao": "Vinho tinto suave e aveludado",
+    "quantidade": 60,
+    "valor": 110.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Sauvignon Blanc",
+    "descricao": "Vinho branco aromático e frutado",
+    "quantidade": 70,
+    "valor": 90.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Malbec",
+    "descricao": "Vinho tinto encorpado e frutado",
+    "quantidade": 45,
+    "valor": 130.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Riesling",
+    "descricao": "Vinho branco doce e aromático",
+    "quantidade": 25,
+    "valor": 160.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Champagne",
+    "descricao": "Vinho espumante francês premium",
+    "quantidade": 20,
+    "valor": 250.0,
+    "categoriaId": "espumantes"
+  },
+  {
+    "nome": "Pinot Noir",
+    "descricao": "Vinho tinto leve e sofisticado",
+    "quantidade": 55,
+    "valor": 140.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Syrah",
+    "descricao": "Vinho tinto robusto e picante",
+    "quantidade": 50,
+    "valor": 135.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Zinfandel",
+    "descricao": "Vinho tinto com notas de frutas vermelhas",
+    "quantidade": 30,
+    "valor": 120.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Gewürztraminer",
+    "descricao": "Vinho branco com toques de especiarias",
+    "quantidade": 40,
+    "valor": 150.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Moscato",
+    "descricao": "Vinho branco doce e leve",
+    "quantidade": 65,
+    "valor": 85.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Cava",
+    "descricao": "Vinho espumante espanhol",
+    "quantidade": 35,
+    "valor": 180.0,
+    "categoriaId": "espumantes"
+  },
+  {
+    "nome": "Pinot Grigio",
+    "descricao": "Vinho branco fresco e cítrico",
+    "quantidade": 75,
+    "valor": 95.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Tempranillo",
+    "descricao": "Vinho tinto espanhol equilibrado",
+    "quantidade": 50,
+    "valor": 125.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Carmenere",
+    "descricao": "Vinho tinto chileno com notas de especiarias",
+    "quantidade": 45,
+    "valor": 115.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Rosé",
+    "descricao": "Vinho rosé leve e frutado",
+    "quantidade": 80,
+    "valor": 105.0,
+    "categoriaId": "vinhosRose"
+  },
+  {
+    "nome": "Brut Rosé",
+    "descricao": "Vinho espumante rosé seco",
+    "quantidade": 25,
+    "valor": 220.0,
+    "categoriaId": "espumantes"
+  },
+  {
+    "nome": "Chianti",
+    "descricao": "Vinho tinto italiano tradicional",
+    "quantidade": 40,
+    "valor": 130.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Grüner Veltliner",
+    "descricao": "Vinho branco austríaco fresco",
+    "quantidade": 30,
+    "valor": 150.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Sangiovese",
+    "descricao": "Vinho tinto italiano versátil",
+    "quantidade": 35,
+    "valor": 140.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Barolo",
+    "descricao": "Vinho tinto italiano encorpado",
+    "quantidade": 20,
+    "valor": 300.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Torrontés",
+    "descricao": "Vinho branco argentino aromático",
+    "quantidade": 40,
+    "valor": 110.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Lambrusco",
+    "descricao": "Vinho espumante tinto italiano",
+    "quantidade": 60,
+    "valor": 90.0,
+    "categoriaId": "espumantes"
+  },
+  {
+    "nome": "Viognier",
+    "descricao": "Vinho branco encorpado e floral",
+    "quantidade": 30,
+    "valor": 160.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Alvarinho",
+    "descricao": "Vinho branco português fresco",
+    "quantidade": 50,
+    "valor": 130.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Shiraz",
+    "descricao": "Vinho tinto australiano picante",
+    "quantidade": 45,
+    "valor": 140.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Albariño",
+    "descricao": "Vinho branco espanhol com notas cítricas",
+    "quantidade": 35,
+    "valor": 120.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Petit Verdot",
+    "descricao": "Vinho tinto com notas de frutas negras",
+    "quantidade": 20,
+    "valor": 190.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Touriga Nacional",
+    "descricao": "Vinho tinto português encorpado",
+    "quantidade": 30,
+    "valor": 170.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Vinho Verde",
+    "descricao": "Vinho branco português leve e fresco",
+    "quantidade": 55,
+    "valor": 100.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Brunello di Montalcino",
+    "descricao": "Vinho tinto italiano complexo",
+    "quantidade": 15,
+    "valor": 350.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Fiano",
+    "descricao": "Vinho branco italiano com notas de frutas tropicais",
+    "quantidade": 40,
+    "valor": 140.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Cannonau",
+    "descricao": "Vinho tinto italiano com sabor intenso",
+    "quantidade": 25,
+    "valor": 180.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Gavi",
+    "descricao": "Vinho branco italiano seco e mineral",
+    "quantidade": 35,
+    "valor": 150.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Cortese",
+    "descricao": "Vinho branco italiano leve e fresco",
+    "quantidade": 50,
+    "valor": 130.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Papa figos",
+    "descricao": "Vinho tinto brasileiro leve e fresco",
+    "quantidade": 0,
+    "valor": 130.0,
+    "categoriaId": "vinhosTintos"
+  },
+  {
+    "nome": "Cortese 1",
+    "descricao": "Vinho branco Argentino leve e fresco",
+    "quantidade": 0,
+    "valor": 130.0,
+    "categoriaId": "vinhosBrancos"
+  },
+  {
+    "nome": "Cortese",
+    "descricao": "Vinho branco italiano leve e fresco",
+    "quantidade": 50,
+    "valor": 130.0,
+    "categoriaId": "vinhosBrancos"
+  }
+]
