@@ -34,7 +34,7 @@ Antes de executar a aplicação, certifique-se de ter os seguintes softwares ins
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/vinhos-sales-api.git
+    git clone https://github.com/alyssonfp/vinhos-manager.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
